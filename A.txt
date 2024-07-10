@@ -1,1 +1,5 @@
 Hello !!! This is Khushi.
+
+void m(){
+System.out.rintln("Hello");
+}
